@@ -13,18 +13,17 @@ bash start.sh
 ```
 
 # Building
-- A build.sh file has been provided.
-- **Must have Git and Go installed**
-- Execute the following script.
+- Must Have Knowledge Of Golang And Aws.
+- Im Using AWS Elastic beanstalk For The Deployment Of This App,
+- ```
+eb init (Fill The Setup Wizard) 
+eb create
+eb deploy
 ```
-git clone https://github.com/apidev234/porit
-cd porit
-clear
-bash build.sh
-```
+- Then, Configure Load Balancers [IF YOU WANT CUSTOM DOMAIN]
+- Your App Would Be Ready!
 
-# Docker
-- Coming Soon!
+
 
 # Contribute
 - Coming Soon! **WITH AUTOMATION :)**

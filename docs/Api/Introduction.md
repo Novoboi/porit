@@ -8,6 +8,3 @@ order: 200
 
 # Domain
 - All API Calls Should Be Made To `api.porit.apidev234.tk`.
-
-# Postman
-- We Have a Public Postman Collection Here.
