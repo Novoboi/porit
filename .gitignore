@@ -5,7 +5,3 @@ bin/application
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
 
-
-# docs/.retype
-# Local Netlify folder
-.netlify
