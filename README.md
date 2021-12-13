@@ -1,5 +1,5 @@
 # PorIT
-- Open Source Web API For 
+- Open Source Web API For Explicit Content.
 
 # Starting in Dev Mode
 - Everything has been made easy, A start.sh file has been provided.
