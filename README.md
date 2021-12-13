@@ -15,7 +15,7 @@ bash start.sh
 # Building
 - Must Have Knowledge Of Golang And Aws.
 - Im Using AWS Elastic beanstalk For The Deployment Of This App,
-- ```
+```
 eb init (Fill The Setup Wizard) 
 eb create
 eb deploy
