@@ -26,4 +26,4 @@ eb deploy
 
 
 # Contribute
-- Coming Soon! **WITH AUTOMATION :)**
+- Abide By The [Code of Conduct](https://github.com/apidev234/porit/blob/main/CODE_OF_CONDUCT.md)
