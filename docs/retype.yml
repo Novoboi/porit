@@ -1,0 +1,36 @@
+input: .
+output: .retype
+url: docs.porit.apidev234.tk
+branding:
+  title: PorIT
+  label: v1.1.2
+  logo: static/logo.png
+meta:
+  title: " | PorIt - Free Explicit Content Api"
+edit: 
+  repo: https://github.com/apidev234/porit/docs
+search:
+  maxResults: 10
+  placeholder: Search The Docs
+  hotkeys:
+    - "/"
+  noResultsFoundMsg: Couldnt't Find Something Like This
+links:
+  - text: Home
+    icon: home
+    link: /
+    target: blank
+  - text: Github
+    icon: mark-github
+    target: blank
+    link: https://github.com/apidev234/porit
+  - text: Discussions
+    icon: comment-discussion
+    link: https://github.com/apidev234/porit/discussions
+    target: blank
+  - text: Issues
+    icon: issue-opened
+    target: blank
+    link: https://github.com/apidev234/porit/issues
+footer:
+  copyright: "&copy; Copyright {{ year }} PorIT. All rights reserved."

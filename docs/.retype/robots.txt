@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://docs.porit.apidev234.tk/sitemap.xml.gz
